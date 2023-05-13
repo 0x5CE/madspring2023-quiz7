@@ -1,16 +1,14 @@
-# quiz7
+# Quiz 7
 
-A new Flutter project.
+Create an app as defined in the GitHub repo you cloned with all your detail. The app should have a text field which, upon detecting each gesture, would be able to show that in text. Individual functions are to be called for each gesture. The minimum set of individual gesture detecting functions are as follows
 
-## Getting Started
+- onTap
+- onDoubleTap
+- onLongPress
+- onPanUpdate
+- Transform
+- drag and Drop
+    
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![SS](/screenshots/ss1.png)
